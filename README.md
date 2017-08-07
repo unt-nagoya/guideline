@@ -11,9 +11,15 @@ GitHubを利用する上での社内向けルールや資料などをまとめ�
 ## 用途
 
 - 社内で開発したライブラリやテンプレートのバージョン管理・配布
-- コードレビュー
+- プルリクエストを利用したコードレビュー
+- Git、GitHubに慣れる
+
+## 採用するブランチモデル
+
+- GitHub Flowを予定
 
 ## 参考資料
 
 - [今さら聞けない！GitHubの使い方【超初心者向け】](https://techacademy.jp/magazine/6235)
 - [Git-flow ～Gitのブランチモデルを知る～](http://tracpath.com/bootcamp/learning_git_git_flow.html)
+- [GitHub Flow ～GitHubを活用するブランチモデル～](http://tracpath.com/bootcamp/learning_git_github_flow.html)
